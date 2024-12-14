@@ -305,7 +305,6 @@ if ( isset( $shariff3uu['version'] ) && -1 === version_compare( $shariff3uu['ver
         $shariff3uu['version'] = '4.6.13';
 }
 
-
 /**
  * General tasks we do on every update, like clean up transients and so on.
  */
